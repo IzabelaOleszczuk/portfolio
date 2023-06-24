@@ -20,5 +20,8 @@ Now I am collecting experience at uTest.com. I've passed 4 testing. I've tested 
 * https://bedeprogramistka.pl/
 
 # Articles
-https://remigiuszbednarczyk.pl/portfolio-testera
+* https://remigiuszbednarczyk.pl/portfolio-testera
+* https://programistkisasuper.pl/github-jak-zaczac-twoj-nowy-projekt/
+* https://bedeprogramistka.pl/jak-uzywac-git-huba-instalacja-i-obsluga-gita-krok-po-kroku/
+
 # My projcts
