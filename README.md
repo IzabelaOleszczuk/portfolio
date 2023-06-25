@@ -8,7 +8,7 @@ My name is Izabela Oleszczuk. I am master of Math and IT. It's special major for
 * C++
 * Html/css
 * Php
-  Now I am focusing at reminding think about programming language from my studies.
+  Now I am focusing at reminding think about programming language from my studies. Jira, postman json. Java script object notation. 
   
 # Experience
 Now I am collecting experience at uTest.com. I've passed 4 testing. I've tested one mobile apps, and three on-line shops. 
@@ -29,10 +29,12 @@ Now I am collecting experience at uTest.com. I've passed 4 testing. I've tested 
 * https://remigiuszbednarczyk.pl/portfolio-testera
 * https://programistkisasuper.pl/github-jak-zaczac-twoj-nowy-projekt/
 * https://bedeprogramistka.pl/jak-uzywac-git-huba-instalacja-i-obsluga-gita-krok-po-kroku/
-
+* https://testuj.pl/blog/jak-poprawnie-zglaszac-bledy/
+* https://testerzy.pl/baza-wiedzy/jak-napisac-dobry-przypadek-testowy
+* https://www.wyszkolewas.com.pl/przypadki-testowe-przyklady/
 # My projcts
 * zgłoszenie defektu
-  https://testuj.pl/blog/jak-poprawnie-zglaszac-bledy/
+  https://docs.google.com/document/d/1Y0B8aJonY4uVizhFOqouBRDK8EULPe4aMSZO5zvW2aU/edit?usp=sharing&fbclid=IwAR3MVEpk007gLPvHp9pH61zjpc706-Ynaf3lu92ZbotxaK88qUOm8oqLGGA 
 * raporty z testowania
 * przypadki testowe
 * scenariusze testowe
