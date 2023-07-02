@@ -9,7 +9,8 @@ My name is Izabela Oleszczuk. I am master of Math and IT. It's special major for
   C++
  Html/css
   Php
-  Now I am focusing at reminding think about programming language from my studies. Jira, postman json. Java script object notation. TEST LINK.
+  Now I am focusing at reminding think about programming language from my studies. Jira, postman json. Java script object notation. TEST LINK. docker
+  
   
 # Experience
 Now I am collecting experience at uTest.com. I've passed 4 testing. I've tested one mobile apps, and three on-line shops. 
