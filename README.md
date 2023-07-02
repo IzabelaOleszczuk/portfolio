@@ -50,10 +50,8 @@ Now I am collecting experience at uTest.com. I've passed 4 testing. I've tested 
 [Testalia](https://www.youtube.com/watch?v=clhK2sn8bX8)
 
 # My projcts
-* [Zgłoszenie defektu]
-  (https://docs.google.com/document/d/1Y0B8aJonY4uVizhFOqouBRDK8EULPe4aMSZO5zvW2aU/edit?usp=sharing&fbclid=IwAR3MVEpk007gLPvHp9pH61zjpc706-Ynaf3lu92ZbotxaK88qUOm8oqLGGA)
-* [Scenariusze testowe i przypadki testowe]
-  (https://docs.google.com/document/d/1fXGpMriEp381plsprpEvfQMl0hcmv69UbmS-rYpervE/edit?usp=sharing)
-*[Raport z testowania](https://docs.google.com/document/d/1XyubGrQK_V3BuC-BgAvYJp8v4c41t8zeR25k4gf8hTQ/edit?usp=sharing)
-* 
+* [Zgłoszenie defektu](https://docs.google.com/document/d/1Y0B8aJonY4uVizhFOqouBRDK8EULPe4aMSZO5zvW2aU/edit?usp=sharing&fbclid=IwAR3MVEpk007gLPvHp9pH61zjpc706-Ynaf3lu92ZbotxaK88qUOm8oqLGGA)
+* [Scenariusze testowe i przypadki testowe](https://docs.google.com/document/d/1fXGpMriEp381plsprpEvfQMl0hcmv69UbmS-rYpervE/edit?usp=sharing)
+* [Raport z testowania](https://docs.google.com/document/d/1XyubGrQK_V3BuC-BgAvYJp8v4c41t8zeR25k4gf8hTQ/edit?usp=sharing)
+  
 
