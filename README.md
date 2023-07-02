@@ -4,11 +4,11 @@ My name is Izabela Oleszczuk. I am master of Math and IT. It's special major for
 
 # Tech skills
 * Reporting bugs
-* Java
-* C++
-* Html/css
-* Php
-  Now I am focusing at reminding think about programming language from my studies. Jira, postman json. Java script object notation. 
+ Java
+  C++
+ Html/css
+  Php
+  Now I am focusing at reminding think about programming language from my studies. Jira, postman json. Java script object notation. TEST LINK.
   
 # Experience
 Now I am collecting experience at uTest.com. I've passed 4 testing. I've tested one mobile apps, and three on-line shops. 
@@ -24,18 +24,25 @@ Now I am collecting experience at uTest.com. I've passed 4 testing. I've tested 
 * https://bedeprogramistka.pl/
 * https://programistkisasuper.pl
 * https://testuj.pl
+* https://www.wyszkolewas.com.pl
+* https://testerzy.pl
+* https://jaktestowac.pl/
+* http://cherry-it.pl/
 
 # Articles
-* https://remigiuszbednarczyk.pl/portfolio-testera
+* [Portfolio testera](https://remigiuszbednarczyk.pl/portfolio-testera)
 * https://programistkisasuper.pl/github-jak-zaczac-twoj-nowy-projekt/
 * https://bedeprogramistka.pl/jak-uzywac-git-huba-instalacja-i-obsluga-gita-krok-po-kroku/
 * https://testuj.pl/blog/jak-poprawnie-zglaszac-bledy/
 * https://testerzy.pl/baza-wiedzy/jak-napisac-dobry-przypadek-testowy
 * https://www.wyszkolewas.com.pl/przypadki-testowe-przyklady/
+* https://testerzy.pl/baza-wiedzy/czym-jest-scenariusz-testowy
+
 # My projcts
 * zgłoszenie defektu
-  https://docs.google.com/document/d/1Y0B8aJonY4uVizhFOqouBRDK8EULPe4aMSZO5zvW2aU/edit?usp=sharing&fbclid=IwAR3MVEpk007gLPvHp9pH61zjpc706-Ynaf3lu92ZbotxaK88qUOm8oqLGGA 
-* raporty z testowania
+  https://docs.google.com/document/d/1Y0B8aJonY4uVizhFOqouBRDK8EULPe4aMSZO5zvW2aU/edit?usp=sharing&fbclid=IwAR3MVEpk007gLPvHp9pH61zjpc706-Ynaf3lu92ZbotxaK88qUOm8oqLGGA
 * przypadki testowe
+  https://docs.google.com/document/d/1fXGpMriEp381plsprpEvfQMl0hcmv69UbmS-rYpervE/edit?usp=sharing
+* raporty z testowania
 * scenariusze testowe
 
