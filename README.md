@@ -4,17 +4,20 @@ My name is Izabela Oleszczuk. I am master of Math and IT. It's special major for
 
 # Tech skills
 * Reporting bugs
+* Jira
 
 # My Goals
-* Jira
 * postman
 * json
 * javascript object notation
 * test link
 * docker
+* GIT
+* nodejs
+* cypres
+* jenkins
+* trello
  
-  
-  
 # Experience
 Now I am collecting experience at uTest.com. I've passed 4 testing. I've tested one mobile apps, and three on-line shops. 
 
@@ -49,6 +52,12 @@ Now I am collecting experience at uTest.com. I've passed 4 testing. I've tested 
 * [Scenariusz testowy](https://qualityisland.pl/jak-napisac-dobry-scenariusz-testow/)
 * [Raport testowy](https://qualityisland.pl/raport-z-testow-must-have/)
 * [Raport testowy](https://perfect-tester.com/jak-napisac-raport-z-testow/)
+* https://www.wyszkolewas.com.pl/zrob-to-sam-jira-cz-1/
+* https://www.wyszkolewas.com.pl/jira-uzytkownicy/
+* https://www.wyszkolewas.com.pl/jira-zgloszenie/
+* https://www.wyszkolewas.com.pl/wyszukiwanie-zgloszen-w-jira/
+* https://www.wyszkolewas.com.pl/organizacja-zgloszen-w-jira/
+* https://www.wyszkolewas.com.pl/typy-zgloszen-w-jira/
 
 # Youtube 
 [Testalia](https://www.youtube.com/watch?v=clhK2sn8bX8)
