@@ -4,12 +4,15 @@ My name is Izabela Oleszczuk. I am master of Math and IT. It's special major for
 
 # Tech skills
 * Reporting bugs
-* 
- Java
-  C++
- Html/css
-  Php
-  Now I am focusing at reminding think about programming language from my studies. Jira, postman json. Java script object notation. TEST LINK. docker
+
+# My Goals
+* Jira
+* postman
+* json
+* javascript object notation
+* test link
+* docker
+ 
   
   
 # Experience
@@ -21,7 +24,7 @@ Now I am collecting experience at uTest.com. I've passed 4 testing. I've tested 
 * Zawód Scrum Master (czyli wszystko, co chcesz wiedzieć o pracy Scrum Mastera)
 * UX/UI by SDA
 * Data Science by SDA
-* 
+  
 # Recommended blogs
 * https://bedeprogramistka.pl/
 * https://programistkisasuper.pl
@@ -34,7 +37,7 @@ Now I am collecting experience at uTest.com. I've passed 4 testing. I've tested 
 * https://perfect-tester.com
 
 # Articles
-* [Portfolio testera](https://remigiuszbednarczyk.pl/portfolio-testera)
+* https://remigiuszbednarczyk.pl/portfolio-testera
 * https://programistkisasuper.pl/github-jak-zaczac-twoj-nowy-projekt/
 * https://bedeprogramistka.pl/jak-uzywac-git-huba-instalacja-i-obsluga-gita-krok-po-kroku/
 * https://testuj.pl/blog/jak-poprawnie-zglaszac-bledy/
