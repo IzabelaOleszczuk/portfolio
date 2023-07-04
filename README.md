@@ -6,6 +6,7 @@ Nazywam sie Izabela Oleszczuk. Ukończyłam studia magisterskie o kierunku matem
 * Raportowanie błędów
 * Pisanie przypadków testowych i scenariuszy
 * Pisanie raportu z testowanie
+* Skrypt ISTQB
 * Jira
 * Devtools
 * GIT - czytałam na ten temat parę artykułów, wiem na czym polega system kontroli wersji i jak to działa, ale nie miałam możliwości przepracowania tego w praktyce.
@@ -17,7 +18,7 @@ Poniżej przedstawiam listę rzezcy które chcę poznać, gdyż gdzieś tam zas�
 * postman - do API
 * json - rozdzaj pliku do API
 * javascript object notation
-* docker - dysk w chmurze ?
+* docker 
 * nodejs
 * cypres
 * jenkins
