@@ -1,15 +1,15 @@
 # Portfolio
 # O mnie
-Nazywam sie Izabela Oleszczuk. Ukończyłam studia magisterskie o kierunku matematyka z informatyką - studia nauczycielskie. Chcę się przebranżowić i zostać testerem oprogramowania. Chcę się podzielić efektami mojej nauki i osobistego researchu. 
+Nazywam sie Izabela Oleszczuk. Ukończyłam studia magisterskie o kierunku matematyka z informatyką - studia nauczycielskie. Chcę spróbować swoich sił jako tester oprogramowania. Chcę się podzielić efektami mojej nauki i osobistego researchu. 
 
 # Umiejętności techniczne
 * Raportowanie błędów
 * Pisanie przypadków testowych i scenariuszy
-* Pisanie raportu z testowanie
+* Pisanie raportu z testowania
 * Skrypt ISTQB
 * Jira
 * Devtools
-* GIT - czytałam na ten temat parę artykułów, wiem na czym polega system kontroli wersji i jak to działa, ale nie miałam możliwości przepracowania tego w praktyce.
+* GIT - czytałam na ten temat parę artykułów, wiem na czym polega system kontroli wersji i jak to działa, ale nie miałam możliwości przepracowania tego w praktyce, nie mogę połączyć gighuba z moim komputerem, ale cały czas staram się rozwiązać ten problem.
 * Test LINK - Podobnie jak wyżej, czyli czytałam dużo artykułów, ale nie miałam możliwości przepracowania tego w praktyce. Nie udało mi się go zainstalować. Próbowałam robić to wykonując z tutaoriala na youtube (link niżej)
   
 
@@ -17,7 +17,6 @@ Nazywam sie Izabela Oleszczuk. Ukończyłam studia magisterskie o kierunku matem
 Poniżej przedstawiam listę rzezcy które chcę poznać, gdyż gdzieś tam zasłyszałam i jestem ciekawa czy mi to pomoże w pracy testera. 
 * postman - do API
 * json - rozdzaj pliku do API
-* javascript object notation
 * docker 
 * nodejs
 * cypres
