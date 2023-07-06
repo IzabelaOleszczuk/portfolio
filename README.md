@@ -83,8 +83,11 @@ Obecnie zbieram dosiadczenie na uTest.com. Zdałam 4 projekty. Testowałam jedn�
 * https://www.wyszkolewas.com.pl/testlink-wprowadzenie-instalacja/
 * https://testerzy.pl/narzedzia/testlink
 * https://myservername.com/testlink-tutorial-layman-s-guide-testlink-test-management-tool
+* https://blogprogramisty.net/komendy-git-a-ktore-nalezy-znac/
 
 # Youtube 
 * https://www.youtube.com/watch?v=clhK2sn8bX8 - testalia
 * https://www.youtube.com/watch?v=f9q65Qov9hI - instalacja Test linka
 * https://www.youtube.com/watch?v=R1BApAdmdTM - testink tutorial
+* https://www.youtube.com/watch?v=j-EhgAi-u-Y - tutorial gita
+* https://www.youtube.com/watch?v=b7ICJ93hnUg - czym jest git
