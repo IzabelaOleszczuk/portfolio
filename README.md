@@ -85,6 +85,10 @@ Obecnie zbieram dosiadczenie na uTest.com. Zdałam 4 projekty. Testowałam jedn�
 * https://blogprogramisty.net/komendy-git-a-ktore-nalezy-znac/
 * https://ipatryk.pl/polaczenie-do-github-przez-ssh/
 * https://dziewczynanafroncie.pl/polaczenie-z-git-za-pomoca-ssh/
+* https://testerzy.pl/baza-wiedzy/artykuly/rodzaje-testow-oprogramowania
+* https://softwareskill.pl/piramida-testow
+* https://testerzy.pl/baza-wiedzy/wartosci-graniczne-w-testowaniu-oprogramowania
+* https://www.zaptest.com/pl/smoke-testing-glebokie-zanurzenie-w-typach-procesie-narzedziach-programowych-smoke-test-more
 
 # Youtube 
 * https://www.youtube.com/watch?v=clhK2sn8bX8 - testalia
