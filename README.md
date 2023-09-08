@@ -89,6 +89,9 @@ Obecnie zbieram dosiadczenie na uTest.com. Zdałam 4 projekty. Testowałam jedn�
 * https://softwareskill.pl/piramida-testow
 * https://testerzy.pl/baza-wiedzy/wartosci-graniczne-w-testowaniu-oprogramowania
 * https://www.zaptest.com/pl/smoke-testing-glebokie-zanurzenie-w-typach-procesie-narzedziach-programowych-smoke-test-more
+* https://testerzy.pl/baza-wiedzy/artykuly/smoke-testing-i-sanity-testing-to-nie-to-samo
+* https://tester.milenabednarczyk.pl/testowanie-na-podstawie-przypadkow-uzycia-blackbox/
+* 
 
 # Youtube 
 * https://www.youtube.com/watch?v=clhK2sn8bX8 - testalia
@@ -96,3 +99,4 @@ Obecnie zbieram dosiadczenie na uTest.com. Zdałam 4 projekty. Testowałam jedn�
 * https://www.youtube.com/watch?v=R1BApAdmdTM - testink tutorial
 * https://www.youtube.com/watch?v=j-EhgAi-u-Y - tutorial gita
 * https://www.youtube.com/watch?v=b7ICJ93hnUg - czym jest git - jaknauczyćsieprogramowania
+* https://www.youtube.com/watch?v=d4_tHVg0epI - smoke testy
