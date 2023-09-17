@@ -9,7 +9,7 @@ Nazywam sie Izabela Oleszczuk. Ukończyłam studia magisterskie o kierunku matem
 * Skrypt ISTQB
 * Jira
 * Devtools
-* GIT - czytałam na ten temat parę artykułów, wiem na czym polega system kontroli wersji i jak to działa, ale nie miałam możliwości przepracowania tego w praktyce, nie mogę połączyć gighuba z moim komputerem, ale cały czas staram się rozwiązać ten problem.
+* GIT - czytałam na ten temat parę artykułów, wiem na czym polega system kontroli wersji i jak to działa, ale nie miałam możliwości przepracowania tego w praktyce, nie mogę połączyć githuba z moim komputerem, ale cały czas staram się rozwiązać ten problem.
 * Test LINK - Podobnie jak wyżej, czyli czytałam dużo artykułów, ale nie miałam możliwości przepracowania tego w praktyce. Nie udało mi się go zainstalować. Próbowałam robić to wykonując z tutaoriala na youtube (link niżej)
   
 
@@ -33,7 +33,7 @@ Poniżej przedstawiam listę rzezcy które chcę poznać, gdyż gdzieś tam zas�
   * Php
  
 # Doświadczenie
-Obecnie zbieram dosiadczenie na uTest.com. Zdałam 4 projekty. Testowałam jedną aplikację mobilną i zbierałam logi używając devtools oraz trzy sklepy internetowe.
+Obecnie zbieram dosiadczenie na uTest.com. Zdałam 4 projekty. Testowałam jedną aplikację mobilną oraz trzy sklepy internetowe.
 
 # Moje projekty
 * [Zgłoszenie defektu](https://docs.google.com/document/d/1Y0B8aJonY4uVizhFOqouBRDK8EULPe4aMSZO5zvW2aU/edit?usp=sharing&fbclid=IwAR3MVEpk007gLPvHp9pH61zjpc706-Ynaf3lu92ZbotxaK88qUOm8oqLGGA)
@@ -91,7 +91,12 @@ Obecnie zbieram dosiadczenie na uTest.com. Zdałam 4 projekty. Testowałam jedn�
 * https://www.zaptest.com/pl/smoke-testing-glebokie-zanurzenie-w-typach-procesie-narzedziach-programowych-smoke-test-more
 * https://testerzy.pl/baza-wiedzy/artykuly/smoke-testing-i-sanity-testing-to-nie-to-samo
 * https://tester.milenabednarczyk.pl/testowanie-na-podstawie-przypadkow-uzycia-blackbox/
-* 
+* https://testerzy.pl/baza-wiedzy/weryfikacja-a-walidacja
+* https://testuj.pl/blog/tester-w-zespole-scrumowym/
+* https://testerzy.pl/baza-wiedzy/miejsce-testowania-w-modelach-cyklu-tworzenia-oprogramowania
+* https://testerzy.pl/slownik/testowanie-ad-hoc
+* https://www.wyszkolewas.com.pl/przyklady-klas-rownowaznosci/
+* https://broadminds.pl/projektowanie-przypadkow-testowych-klasy-rownowaznosci/
 
 # Youtube 
 * https://www.youtube.com/watch?v=clhK2sn8bX8 - testalia
